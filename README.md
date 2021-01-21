@@ -82,4 +82,4 @@ See [Contributing](CONTRIBUTING.md).
 Test
 ----
 
-![Untitled alt test](./untitled.png)
+![Untitled alt test](Untitled.png)
